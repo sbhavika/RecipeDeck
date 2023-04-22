@@ -25,7 +25,7 @@ section {
   align-items: center;
   justify-content: center;
   padding: 100px 0;
-  background-color: rgb(26, 26, 27);
+  background-color: #728FCE;
 }
 
 .container {
@@ -167,3 +167,16 @@ input {
     font-size: 2rem;
   }
 }
+
+::-webkit-scrollbar {
+    width: 0px;
+    background-color: rgba(234, 234, 234, 0);
+    opacity: 0;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(195, 195, 195, 0);
+    border-radius: 0px;
+}
+
+
