@@ -1,6 +1,6 @@
 # Recipe_App
 
-Website : https://debrajhyper.github.io/Recipe_App/
+
 
 
     Find your everyday cooking inspiration on Recipe Website. 🥣
@@ -11,8 +11,7 @@ Website : https://debrajhyper.github.io/Recipe_App/
     * Cooking ideas ✨
 
 
-# Website Info
-Designed by <a href="https://github.com/debrajhyper">Debraj Karmakar</a>
+
 
 Technology Used :
 * HTML5
@@ -25,11 +24,4 @@ Technology Used :
 * VS Code
 * Chrome
 
-<h3>Home</h3>
-<img src="assets/Screenshot (52).png"/>
-    
-<h3>Search</h3>
-<img src="assets/Screenshot (53).png"/>
 
-<h3>Results</h3>
-<img src="assets/Screenshot (54).png"/>
